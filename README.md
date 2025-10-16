@@ -1,2 +1,6 @@
-# JMDEesyPacker
-You can unpack and repack game data that uses the JMD format.
+# JMD Eesy Packer
+드래그 혹은 콘솔을 통하여 JMD 데이터를 쉽게 수정할 수 있습니다.
+## 지원하는 게임
+레이시티</br>슈팅대전 탄
+### 확인이 필요한 게임
+MVP 베이스볼 온라인
